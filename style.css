@@ -70,9 +70,9 @@ body{
  /******MAIN*******/
     #main{
         margin-top: 119px;
-        background: url('images/map-blur.png');
+        background: url('images/map-blur.png' ) ;
         background-repeat: repeat-y;
-        
+        width: 100%;
     }
     #content{
         padding-top: 1px;
